@@ -1,3 +1,4 @@
 test1
 added another line
 change to check 3 way
+adding again another line in remote directly
